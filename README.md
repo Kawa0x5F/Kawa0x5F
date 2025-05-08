@@ -3,8 +3,9 @@ Hello! I'm Kawa_.
 
 If you'd like to learn more about me, you should check [Kawa_ Web](https://kawa0x5f.com)!
 It's my personal profile site.
-
-![scroll](https://typograssy.deno.dev/api?text=Kawa_%20GitHub&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment=)
+<div align="center">
+  ![scroll](https://typograssy.deno.dev/api?text=Kawa_%20Github%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment=)
+</div>
 
 ## Works
 #### 個人開発
@@ -22,7 +23,8 @@ It's my personal profile site.
 - 2023/07 [C言語によるタイピングゲーム](https://github.com/Kawa0x5F/FallTyping)
 
 ## Activity
-<p align="left"> 
+<div align="center">
+<p> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawa0x5F&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kawa0x5F&theme=onedark&show_icons=ture" />
 </p>
@@ -33,12 +35,20 @@ It's my personal profile site.
  <a href="https://atcoder.jp/users/Kawa_?contestType=heuristic">
    <img src="https://badgen.org/img/atcoder/Kawa_/rating/heuristic?style=plastic" />
  </a>
+ </div>
 
-## Lang & Framework & Env
+## Language
+<div align="center">
   [![My Skills](https://skillicons.dev/icons?i=python,rust,go,c,java,html,css,javascript,typescript,dart,cs)](https://skillicons.dev)  
+</div>
 
+## Framework, Library
+<div align="center">
   [![My Framework](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,flutter,wasm)](https://skillicons.dev)
+</div>
 
-  [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,unity,postgresql,mysql)](https://skillicons.dev)
-  
+## Environments
+<div align="center">
+  [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,unity,postgresql,mysql)](https://skillicons.dev)
+</div>  
   
