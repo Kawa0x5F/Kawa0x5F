@@ -4,7 +4,9 @@ Hello! I'm Kawa_.
 If you'd like to learn more about me, you should check [Kawa_ Web](https://kawa0x5f.com)!
 It's my personal profile site.
 <div align="center">
-  ![scroll](https://typograssy.deno.dev/api?text=Kawa_%20Github%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment=)
+
+  ![scroll](https://typograssy.deno.dev/api?text=%20Kawa_%20GitHub%20&l0=f0f1f4&bg=dadeff&frame=ffffff)
+
 </div>
 
 ## Works
@@ -39,16 +41,22 @@ It's my personal profile site.
 
 ## Language
 <div align="center">
+
   [![My Skills](https://skillicons.dev/icons?i=python,rust,go,c,java,html,css,javascript,typescript,dart,cs)](https://skillicons.dev)  
+
 </div>
 
 ## Framework, Library
 <div align="center">
-  [![My Framework](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,flutter,wasm)](https://skillicons.dev)
+  
+ [![My Framework](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,flutter,wasm)](https://skillicons.dev)
+ 
 </div>
 
 ## Environments
 <div align="center">
-  [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,unity,postgresql,mysql)](https://skillicons.dev)
+  
+ [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,unity,postgresql,mysql)](https://skillicons.dev)
+ 
 </div>  
   
