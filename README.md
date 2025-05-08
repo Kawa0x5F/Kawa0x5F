@@ -10,10 +10,10 @@ It's my personal profile site.
 - 2025/01 [自作treeコマンド](https://github.com/Kawa0x5F/tree)
 
 #### ハッカソン
-- 2025/02 [記事作成補助アプリ(バック)(PR TIMES HACKATHON 2025 Winter)](https://github.com/Kawa0x5F/DreamArticleGenerator_back)
-- 2025/02 [万物粉物判定アプリ(KC3HACK2025)](https://github.com/kc3hack/2025_14)
-- 2024/09 [駒を重ねることができる将棋(Tech.SummerCamp)](https://github.com/Asameshi00/Stacking-Shogi)
-- 2024/02 [寄り道経路提示アプリ(KC3HACK2024)](https://github.com/kc3hack/2024_G)
+- 2025/02 [記事作成補助アプリ(バック)](https://github.com/Kawa0x5F/DreamArticleGenerator_back)(PR TIMES HACKATHON 2025 Winter)
+- 2025/02 [万物粉物判定アプリ](https://github.com/kc3hack/2025_14)(KC3HACK2025)
+- 2024/09 [駒を重ねることができる将棋](https://github.com/Asameshi00/Stacking-Shogi)(Tech.SummerCamp)
+- 2024/02 [寄り道経路提示アプリ](https://github.com/kc3hack/2024_G)(KC3HACK2024)
 
 #### 授業・部活動
 - 2023/07 [C言語によるタイピングゲーム](https://github.com/Kawa0x5F/FallTyping)
