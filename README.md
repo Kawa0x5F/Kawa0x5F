@@ -5,7 +5,7 @@ If you'd like to learn more about me, you should check [Kawa_ Web](https://kawa0
 It's my personal profile site.
 <div align="center">
 
-  ![scroll](https://typograssy.deno.dev/api?text=%20Kawa_%20GitHub%20&l0=f0f1f4&bg=dadeff&frame=ffffff)
+  ![scroll](https://typograssy.deno.dev/api?text=%20Kawa_%20GitHub%20&l0=f0f1f4&bg=dadeff&frame=ffffff&comment=)
 
 </div>
 
