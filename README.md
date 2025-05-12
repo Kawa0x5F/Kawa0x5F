@@ -42,21 +42,44 @@ It's my personal profile site.
 ## Language
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=python,rust,go,c,java,html,css,javascript,typescript,dart,cs)](https://skillicons.dev)  
+  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+  [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+  [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+  [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+  [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+  [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 </div>
 
 ## Framework, Library
 <div align="center">
   
- [![My Framework](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,flutter,wasm)](https://skillicons.dev)
+  [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+  [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+  [![WASM](https://skillicons.dev/icons?i=wasm)](https://webassembly.org/)
  
 </div>
 
 ## Environments
 <div align="center">
   
- [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,unity,postgresql,mysql)](https://skillicons.dev)
+  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+  [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+  [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
  
 </div>  
   
