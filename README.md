@@ -11,7 +11,7 @@ It's my personal profile site.
 
 ## Works
 #### 個人開発
-- 2025/04 プロフィールサイト・ブログ（[フロント](https://github.com/Kawa0x5F/homepage)・[バック](https://github.com/Kawa0x5F/homepage_backend)）
+- 2025/04 プロフィールサイト・ブログ（現在リポジトリは非公開）
 - 2025/01 [自作treeコマンド](https://github.com/Kawa0x5F/tree)
 
 #### ハッカソン
